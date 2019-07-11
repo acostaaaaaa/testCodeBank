@@ -1,0 +1,9 @@
+//
+//  Magic.xcconfig
+//  Magic
+//
+
+BUNDLE_IDENTIFIER = com.example.ohd
+MAIN_SECTIONS_URL = https:/api.myjson.com/bins/15ikvn
+JOBS_URL = https:/api.myjson.com/bins/1c21yn
+PROFILE_URL = https:/api.myjson.com/bins/jlj8v

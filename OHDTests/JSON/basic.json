@@ -1,0 +1,8 @@
+{
+   "name": "Name",
+   "email": "name@example.com",
+   "phone": "55-1234-5678",
+   "website": "https://example.com/name",
+   "summary": "A brief summary, it should contain a one-sentence to one-paragraph text",
+   "age": 30
+}

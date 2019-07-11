@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  Magic
+*/
+
+/* The application's title */
+"title" = "Resume";
+
+/* Not a correct URL */
+"invalid_url" = "Invalid URL";
+
+/* Not having an internet connection */
+"no_internet" = "No internet connection";
+
+/* Error that ocurred somewhere else */
+"server_error" = "Server Error";
+
+/* Data was not in the correct format */
+"parse_error" = "Data was not in the correct format";
+
+/* Error that ocurred somewhere else */
+"unknown_error" = "Unknown Error";
+
+"generic_error" = "Error that was not anticipated";
+
+"error" = "Error";
+
+"years" = "Years";
+
+"retry" = "Retry";
+
+"work_experience" = "Work Experience";
+
+"basic_info" = "Basic Information";
+
+"name" = "Name";
+
+"age" = "Age";
+
+"email" = "Email";
+
+"phone" = "Phone";
+
+"website" = "Website";
+
+"summary" = "Summary";
